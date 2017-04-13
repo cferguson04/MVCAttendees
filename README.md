@@ -1,0 +1,2 @@
+# MVCAttendees
+Empty MVC app
